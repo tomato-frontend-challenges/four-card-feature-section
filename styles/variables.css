@@ -1,0 +1,19 @@
+:root {
+  --card-radius: 10px;
+
+  /* Primary */
+  --color-red: hsl(0, 78%, 62%);
+  --color-cyan: hsl(180, 62%, 55%);
+  --color-orange: hsl(34, 97%, 64%);
+  --color-blue: hsl(212, 86%, 64%);
+
+  /* Neutral */
+  --color-transparent-white: hsla(0, 0%, 100%, 0.75);
+  --color-very-light-gray: hsl(0, 0%, 95%);
+  
+  /* Fonts */
+  --font-poppins: "Poppins";
+  --font-weight-light: 200;
+  --font-weight-medium: 400;
+  --font-weight-heavy: 600;
+}
