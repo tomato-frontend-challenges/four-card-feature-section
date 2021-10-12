@@ -25,12 +25,18 @@ Users should be able to:
 
 ### Screenshot
 
-TO BE UPLOADED
+Mobile:
+![mobile](https://user-images.githubusercontent.com/24487667/136894959-0ab2835a-d597-42b0-8c30-e9a900e65de4.png)
+
+
+Desktop:
+![dekstop](https://user-images.githubusercontent.com/24487667/136894962-998fbd95-2136-41ad-8320-c72ed267bcad.png)
+
 
 ### Links
 
-- Solution URL: [LINK TO BE ADDED]()
-- Live Site URL: [LINK TO BE ADDED]()
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/four-card-feature-section-vanilla-html-and-css-UTM9JFC4k)
+- Live Site URL: [Link](https://frontend-mentors-four-card-feature-section.vercel.app/)
 
 ## My process
 
