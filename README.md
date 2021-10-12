@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-TO BE UPLOADED
+![preview](https://user-images.githubusercontent.com/24487667/136895513-5c29e0bc-5451-4ed5-915e-ef07c0af9051.png)
 
 ### Links
 
-- Solution URL: [LINK TO BE ADDED]()
-- Live Site URL: [LINK TO BE ADDED]()
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/four-card-feature-section-vanilla-html-and-css-UTM9JFC4k)
+- Live Site URL: [Link](https://frontend-mentors-four-card-feature-section.vercel.app/)
 
 ## My process
 
