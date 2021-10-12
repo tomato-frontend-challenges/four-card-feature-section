@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://www.frontendmentor.io/solutions/four-card-feature-section-vanilla-html-and-css-UTM9JFC4k)
+- Solution URL: [Link](https://github.com/tomato-frontend-challenges/four-card-feature-section)
 - Live Site URL: [Link](https://frontend-mentors-four-card-feature-section.vercel.app/)
 
 ## My process
