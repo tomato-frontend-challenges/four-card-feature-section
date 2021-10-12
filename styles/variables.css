@@ -8,11 +8,15 @@
   --color-blue: hsl(212, 86%, 64%);
 
   /* Neutral */
-  --color-transparent-white: hsla(0, 0%, 100%, 0.75);
-  --color-very-light-gray: hsl(0, 0%, 95%);
+  --color-very-dark-blue: hsla(234, 12%, 34%);
+  --color-grayish-blue: hsl(229, 6%, 66%);
+  --color-very-light-gray: hsl(0, 0%, 98%);
+
+  /* Shadow */
+  --shadow-grayish-blue: hsl(212, 86%, 64%, 0.1);
   
   /* Fonts */
-  --font-poppins: "Poppins";
+  --font-poppins: "Poppins", sans-serif;
   --font-weight-light: 200;
   --font-weight-medium: 400;
   --font-weight-heavy: 600;
