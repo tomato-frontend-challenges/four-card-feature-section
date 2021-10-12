@@ -13,7 +13,7 @@
 .title {
   text-align: center;
   font-weight: var(--font-weight-heavy);
-  font-size: 1.8rem;
+  font-size: 2rem;
 
   color: var(--color-very-dark-blue);
 }
@@ -23,7 +23,7 @@
 
   text-align: center;
   font-weight: var(--font-weight-light);
-  font-size: 1.8rem;
+  font-size: 2rem;
 
   color: var(--color-very-dark-blue);
 }
