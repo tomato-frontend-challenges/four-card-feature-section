@@ -25,13 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-Mobile:
-![mobile](https://user-images.githubusercontent.com/24487667/136894959-0ab2835a-d597-42b0-8c30-e9a900e65de4.png)
-
-
-Desktop:
-![dekstop](https://user-images.githubusercontent.com/24487667/136894962-998fbd95-2136-41ad-8320-c72ed267bcad.png)
-
+![preview](https://user-images.githubusercontent.com/24487667/136895513-5c29e0bc-5451-4ed5-915e-ef07c0af9051.png)
 
 ### Links
 
