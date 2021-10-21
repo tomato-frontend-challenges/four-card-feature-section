@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link](https://github.com/tomato-frontend-challenges/four-card-feature-section)
-- Live Site URL: [Link](https://frontend-mentors-four-card-feature-section.vercel.app/)
+- Live Site URL: [Link](https://tomato-four-card-feature-section.netlify.app/)
 
 ## My process
 
